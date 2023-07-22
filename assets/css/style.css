@@ -187,7 +187,7 @@ html{
 
 #slider .text-content{
     position: absolute;
-    color: #ffffff;
+    color: #ff7d12;
     bottom: 47px;
     left: 50%;
     transform: translateX(-50%);/*xem theem trong tric căn giữa với position*/
